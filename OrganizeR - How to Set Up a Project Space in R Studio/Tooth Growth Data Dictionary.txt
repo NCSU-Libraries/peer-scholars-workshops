@@ -1,0 +1,36 @@
+Data can be accessed through the R datasets package. For the purpose of this workshop, the dataset was pre-downloaded and provided to the participants as a .csv
+
+Sources/References
+C. I. Bliss (1952). The Statistics of Bioassay. Academic Press.
+
+McNeil, D. R. (1977). Interactive Data Analysis. New York: Wiley.
+
+Crampton, E. W. (1947). The growth of the odontoblast of the incisor teeth as a criterion of vitamin C intake of the guinea pig. The Journal of Nutrition, 33(5), 491–504. doi: 10.1093/jn/33.5.491.
+
+-----------------------------
+
+Description:
+Vitamin C was given to guine pigs to see how the delivery method and dose influenced tooth growth. 
+
+Hypothesis 1: a higher dose will have a more positive influence on tooth growth
+Hypothesis 2: asorbic acid as a delivery method will have a more positive influence on tooth growth (asorbic acid is a type of vitamin C)
+
+
+3 Variables: supplement deleviry method, tooth length, and supplement dose
+
+Supplement delivery method (supp)
+Level 1- asorbic acid (VC)
+Level 2- orange juice (OJ)
+variable type: ??
+
+Supplement Dose (dose)
+Level 1- ??
+Level 2- ??
+Level 3- ??
+variable type: ??
+
+Tooth length (len)
+Variable measured in response to supp and dose
+variable type: ??
+
+the data set contains ?? subjects (guinea pigs)
