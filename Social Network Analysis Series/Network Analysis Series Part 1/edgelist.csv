@@ -1,0 +1,16 @@
+﻿from,to,weight
+Rachel,John,14
+Rachel,Katie,21
+John,Rob,4
+John,Katie,10
+John,Jennifer,1
+Katie,John,5
+Rachel,Jennifer,13
+Rachel,Alisha,17
+George,Alisha,2
+George,Rachel,16
+Alisha,Rachel,33
+Jennifer,Rachel,7
+Jennifer,John,2
+Jennifer,Rob,9
+Jennifer,Alisha,19
